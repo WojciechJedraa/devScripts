@@ -7,4 +7,5 @@ cd /home/wj/www/shapeit.pro/app.shapeit.pro
 git pull
 
 mullvad disconnect
+zeditor .
 npm run dev
